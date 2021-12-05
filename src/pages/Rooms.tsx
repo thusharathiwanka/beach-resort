@@ -1,5 +1,7 @@
+import Hero from "../components/Hero";
+
 const Rooms: React.FC = (): JSX.Element => {
-	return <div>Rooms</div>;
+	return <Hero hero="roomsHero" />;
 };
 
 export default Rooms;
