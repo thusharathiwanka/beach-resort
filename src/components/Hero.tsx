@@ -1,4 +1,5 @@
 type Props = {
+	children?: React.ReactNode;
 	hero?: string;
 };
 
