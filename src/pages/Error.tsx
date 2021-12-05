@@ -1,5 +1,7 @@
+import Hero from "../components/Hero";
+
 const Error: React.FC = (): JSX.Element => {
-	return <div>Error</div>;
+	return <Hero />;
 };
 
 export default Error;
