@@ -1,4 +1,4 @@
-const Rooms = () => {
+const Rooms: React.FC = (): JSX.Element => {
 	return <div>Rooms</div>;
 };
 

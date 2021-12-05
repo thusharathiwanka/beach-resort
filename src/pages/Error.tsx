@@ -1,4 +1,4 @@
-const Error = () => {
+const Error: React.FC = (): JSX.Element => {
 	return <div>Error</div>;
 };
 
